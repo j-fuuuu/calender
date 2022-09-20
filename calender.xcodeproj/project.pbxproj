@@ -17,6 +17,23 @@
 		BA9137BF28D82C5F00F8BAD7 /* MyCalenderViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9137BE28D82C5F00F8BAD7 /* MyCalenderViewCell.swift */; };
 		BA9137C128D82D5400F8BAD7 /* MyCalenderViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA9137C028D82D5400F8BAD7 /* MyCalenderViewCell.xib */; };
 		BA9137C528D83ACC00F8BAD7 /* MyCalenderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9137C428D83ACC00F8BAD7 /* MyCalenderView.swift */; };
+		BA9137EB28D85B3F00F8BAD7 /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9137EA28D85B3F00F8BAD7 /* AddViewController.swift */; };
+		BA9137EE28D878BE00F8BAD7 /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = BA9137ED28D878BE00F8BAD7 /* Realm */; };
+		BA9137F028D878BE00F8BAD7 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = BA9137EF28D878BE00F8BAD7 /* RealmSwift */; };
+		BA9137F228D8799800F8BAD7 /* index.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9137F128D8799800F8BAD7 /* index.swift */; };
+		BA9137F428D92C2F00F8BAD7 /* GrowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9137F328D92C2F00F8BAD7 /* GrowViewController.swift */; };
+		BA9137F628D92C4100F8BAD7 /* ItemboxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9137F528D92C4100F8BAD7 /* ItemboxViewController.swift */; };
+		BA9137F828D92C4E00F8BAD7 /* ItemindexViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA9137F728D92C4E00F8BAD7 /* ItemindexViewController.swift */; };
+		BA91383928D966ED00F8BAD7 /* item1.png in Resources */ = {isa = PBXBuildFile; fileRef = BA91382F28D966ED00F8BAD7 /* item1.png */; };
+		BA91383A28D966ED00F8BAD7 /* item2.png in Resources */ = {isa = PBXBuildFile; fileRef = BA91383028D966ED00F8BAD7 /* item2.png */; };
+		BA91383B28D966ED00F8BAD7 /* item3.png in Resources */ = {isa = PBXBuildFile; fileRef = BA91383128D966ED00F8BAD7 /* item3.png */; };
+		BA91383C28D966ED00F8BAD7 /* item4.png in Resources */ = {isa = PBXBuildFile; fileRef = BA91383228D966ED00F8BAD7 /* item4.png */; };
+		BA91383D28D966ED00F8BAD7 /* item5.png in Resources */ = {isa = PBXBuildFile; fileRef = BA91383328D966ED00F8BAD7 /* item5.png */; };
+		BA91383E28D966ED00F8BAD7 /* frog4.png in Resources */ = {isa = PBXBuildFile; fileRef = BA91383428D966ED00F8BAD7 /* frog4.png */; };
+		BA91383F28D966ED00F8BAD7 /* frog3.png in Resources */ = {isa = PBXBuildFile; fileRef = BA91383528D966ED00F8BAD7 /* frog3.png */; };
+		BA91384028D966ED00F8BAD7 /* frog2.png in Resources */ = {isa = PBXBuildFile; fileRef = BA91383628D966ED00F8BAD7 /* frog2.png */; };
+		BA91384128D966ED00F8BAD7 /* frog0.png in Resources */ = {isa = PBXBuildFile; fileRef = BA91383728D966ED00F8BAD7 /* frog0.png */; };
+		BA91384228D966ED00F8BAD7 /* frog1.png in Resources */ = {isa = PBXBuildFile; fileRef = BA91383828D966ED00F8BAD7 /* frog1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +48,21 @@
 		BA9137BE28D82C5F00F8BAD7 /* MyCalenderViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalenderViewCell.swift; sourceTree = "<group>"; };
 		BA9137C028D82D5400F8BAD7 /* MyCalenderViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyCalenderViewCell.xib; sourceTree = "<group>"; };
 		BA9137C428D83ACC00F8BAD7 /* MyCalenderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalenderView.swift; sourceTree = "<group>"; };
+		BA9137EA28D85B3F00F8BAD7 /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
+		BA9137F128D8799800F8BAD7 /* index.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = index.swift; sourceTree = "<group>"; };
+		BA9137F328D92C2F00F8BAD7 /* GrowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrowViewController.swift; sourceTree = "<group>"; };
+		BA9137F528D92C4100F8BAD7 /* ItemboxViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemboxViewController.swift; sourceTree = "<group>"; };
+		BA9137F728D92C4E00F8BAD7 /* ItemindexViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemindexViewController.swift; sourceTree = "<group>"; };
+		BA91382F28D966ED00F8BAD7 /* item1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item1.png; sourceTree = "<group>"; };
+		BA91383028D966ED00F8BAD7 /* item2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item2.png; sourceTree = "<group>"; };
+		BA91383128D966ED00F8BAD7 /* item3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item3.png; sourceTree = "<group>"; };
+		BA91383228D966ED00F8BAD7 /* item4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item4.png; sourceTree = "<group>"; };
+		BA91383328D966ED00F8BAD7 /* item5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = item5.png; sourceTree = "<group>"; };
+		BA91383428D966ED00F8BAD7 /* frog4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frog4.png; sourceTree = "<group>"; };
+		BA91383528D966ED00F8BAD7 /* frog3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frog3.png; sourceTree = "<group>"; };
+		BA91383628D966ED00F8BAD7 /* frog2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frog2.png; sourceTree = "<group>"; };
+		BA91383728D966ED00F8BAD7 /* frog0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frog0.png; sourceTree = "<group>"; };
+		BA91383828D966ED00F8BAD7 /* frog1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = frog1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +70,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA9137F028D878BE00F8BAD7 /* RealmSwift in Frameworks */,
+				BA9137EE28D878BE00F8BAD7 /* Realm in Frameworks */,
 				BA9137B128D8159700F8BAD7 /* JTAppleCalendar in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -74,8 +108,31 @@
 				BA9137BE28D82C5F00F8BAD7 /* MyCalenderViewCell.swift */,
 				BA9137C028D82D5400F8BAD7 /* MyCalenderViewCell.xib */,
 				BA9137C428D83ACC00F8BAD7 /* MyCalenderView.swift */,
+				BA9137F128D8799800F8BAD7 /* index.swift */,
+				BA9137EA28D85B3F00F8BAD7 /* AddViewController.swift */,
+				BA9137F328D92C2F00F8BAD7 /* GrowViewController.swift */,
+				BA9137F528D92C4100F8BAD7 /* ItemboxViewController.swift */,
+				BA9137F728D92C4E00F8BAD7 /* ItemindexViewController.swift */,
+				BA91382E28D966ED00F8BAD7 /* sozai */,
 			);
 			path = calender;
+			sourceTree = "<group>";
+		};
+		BA91382E28D966ED00F8BAD7 /* sozai */ = {
+			isa = PBXGroup;
+			children = (
+				BA91382F28D966ED00F8BAD7 /* item1.png */,
+				BA91383028D966ED00F8BAD7 /* item2.png */,
+				BA91383128D966ED00F8BAD7 /* item3.png */,
+				BA91383228D966ED00F8BAD7 /* item4.png */,
+				BA91383328D966ED00F8BAD7 /* item5.png */,
+				BA91383428D966ED00F8BAD7 /* frog4.png */,
+				BA91383528D966ED00F8BAD7 /* frog3.png */,
+				BA91383628D966ED00F8BAD7 /* frog2.png */,
+				BA91383728D966ED00F8BAD7 /* frog0.png */,
+				BA91383828D966ED00F8BAD7 /* frog1.png */,
+			);
+			path = sozai;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,6 +153,8 @@
 			name = calender;
 			packageProductDependencies = (
 				BA9137B028D8159700F8BAD7 /* JTAppleCalendar */,
+				BA9137ED28D878BE00F8BAD7 /* Realm */,
+				BA9137EF28D878BE00F8BAD7 /* RealmSwift */,
 			);
 			productName = calender;
 			productReference = BA91379828D814F600F8BAD7 /* calender.app */;
@@ -127,6 +186,7 @@
 			mainGroup = BA91378F28D814F600F8BAD7;
 			packageReferences = (
 				BA9137AF28D8159700F8BAD7 /* XCRemoteSwiftPackageReference "JTAppleCalendar" */,
+				BA9137EC28D878BE00F8BAD7 /* XCRemoteSwiftPackageReference "realm-swift" */,
 			);
 			productRefGroup = BA91379928D814F600F8BAD7 /* Products */;
 			projectDirPath = "";
@@ -143,9 +203,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA9137A828D814F700F8BAD7 /* LaunchScreen.storyboard in Resources */,
+				BA91383F28D966ED00F8BAD7 /* frog3.png in Resources */,
 				BA9137A528D814F700F8BAD7 /* Assets.xcassets in Resources */,
 				BA9137C128D82D5400F8BAD7 /* MyCalenderViewCell.xib in Resources */,
+				BA91383928D966ED00F8BAD7 /* item1.png in Resources */,
+				BA91384128D966ED00F8BAD7 /* frog0.png in Resources */,
 				BA9137A328D814F600F8BAD7 /* Main.storyboard in Resources */,
+				BA91384228D966ED00F8BAD7 /* frog1.png in Resources */,
+				BA91383B28D966ED00F8BAD7 /* item3.png in Resources */,
+				BA91383E28D966ED00F8BAD7 /* frog4.png in Resources */,
+				BA91384028D966ED00F8BAD7 /* frog2.png in Resources */,
+				BA91383A28D966ED00F8BAD7 /* item2.png in Resources */,
+				BA91383C28D966ED00F8BAD7 /* item4.png in Resources */,
+				BA91383D28D966ED00F8BAD7 /* item5.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -157,9 +227,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA9137A028D814F600F8BAD7 /* ViewController.swift in Sources */,
+				BA9137F428D92C2F00F8BAD7 /* GrowViewController.swift in Sources */,
 				BA91379C28D814F600F8BAD7 /* AppDelegate.swift in Sources */,
+				BA9137EB28D85B3F00F8BAD7 /* AddViewController.swift in Sources */,
 				BA9137C528D83ACC00F8BAD7 /* MyCalenderView.swift in Sources */,
+				BA9137F228D8799800F8BAD7 /* index.swift in Sources */,
+				BA9137F628D92C4100F8BAD7 /* ItemboxViewController.swift in Sources */,
 				BA9137BF28D82C5F00F8BAD7 /* MyCalenderViewCell.swift in Sources */,
+				BA9137F828D92C4E00F8BAD7 /* ItemindexViewController.swift in Sources */,
 				BA91379E28D814F600F8BAD7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -388,6 +463,14 @@
 				minimumVersion = 8.0.0;
 			};
 		};
+		BA9137EC28D878BE00F8BAD7 /* XCRemoteSwiftPackageReference "realm-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/realm/realm-swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -395,6 +478,16 @@
 			isa = XCSwiftPackageProductDependency;
 			package = BA9137AF28D8159700F8BAD7 /* XCRemoteSwiftPackageReference "JTAppleCalendar" */;
 			productName = JTAppleCalendar;
+		};
+		BA9137ED28D878BE00F8BAD7 /* Realm */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BA9137EC28D878BE00F8BAD7 /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = Realm;
+		};
+		BA9137EF28D878BE00F8BAD7 /* RealmSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BA9137EC28D878BE00F8BAD7 /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = RealmSwift;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

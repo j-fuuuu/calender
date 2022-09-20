@@ -8,7 +8,7 @@
 import UIKit
 import JTAppleCalendar // 1
 
-class MyCalendarViewCell: JTACDayCell {
+class MyCalenderViewCell: JTACDayCell {
 
     @IBOutlet weak var titleLabel: UILabel! // 2
 

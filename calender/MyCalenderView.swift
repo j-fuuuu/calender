@@ -18,8 +18,8 @@ class MyCalendarView: UIView {
         calendarView.calendarDataSource = self
 
         // 4 MainCalendarCellの登録
-        let nibName = UINib(nibName: "MyCalendarViewCell", bundle:nil)
-        calendarView.register(nibName, forCellWithReuseIdentifier: "MyCalendarViewCell")
+        let nibName = UINib(nibName: "MyCalenderViewCell", bundle:nil)
+        calendarView.register(nibName, forCellWithReuseIdentifier: "MyCalenderViewCell")
 
     }
     
@@ -28,13 +28,13 @@ class MyCalendarView: UIView {
 
 extension MyCalendarView: JTACMonthViewDelegate {
     func calendar(_ calendar: JTACMonthView, willDisplay cell: JTACDayCell, forItemAt date: Date, cellState: CellState, indexPath: IndexPath) {
-        let cell = cell as! MyCalendarViewCell
+        let cell = cell as! MyCalenderViewCell
         cell.configure(cellState: cellState)
     }
 
     // cellの設定
     func calendar(_ calendar: JTACMonthView, cellForItemAt date: Date, cellState: CellState, indexPath: IndexPath) -> JTACDayCell {
-        let cell = calendar.dequeueReusableCell(withReuseIdentifier: "MyCalendarViewCell", for: indexPath) as! MyCalendarViewCell
+        let cell = calendar.dequeueReusableCell(withReuseIdentifier: "MyCalenderViewCell", for: indexPath) as! MyCalenderViewCell
         cell.configure(cellState: cellState)
         return cell
     }
